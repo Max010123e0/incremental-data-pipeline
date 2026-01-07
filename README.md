@@ -9,4 +9,5 @@ Key goals:
 - Handle late-arriving data and backfills
 - Produce analytics-ready data using a medallion architecture
 
-Status: Initial scaffolding.
+
+Status: Snowflake grasping.

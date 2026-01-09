@@ -10,4 +10,4 @@ Key goals:
 - Produce analytics-ready data using a medallion architecture
 
 
-Status: Snowflake grasping.
+Status: Bronze layer
